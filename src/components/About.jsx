@@ -8,13 +8,15 @@ const About = () => {
       className="w-full h-screen bg-[#001F3F] text-gray-300"
     >
       <div className="flex flex-col justify-center items-center w-full h-full">
+        <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
+          About
+        </p>
+        <p className="py-6 text-2xl">
+          Know Me!
+        </p>
         <div className=" py-16 rounded-md bg-gradient-to-r from-violet-500 to-blue-500 flex flex-col justify-center items-center w-4/6">
           <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
-            <div className="sm:text-right pb-8 pl-4">
-              <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
-                About
-              </p>
-            </div>
+            <div className="sm:text-right pb-8 pl-4"></div>
             <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
