@@ -11,9 +11,7 @@ const About = () => {
         <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
           About
         </p>
-        <p className="py-6 text-2xl">
-          Know Me!
-        </p>
+        <p className="py-6 text-2xl">Know Me!</p>
         <div className=" py-16 rounded-md bg-gradient-to-r from-violet-500 to-blue-500 flex flex-col justify-center items-center w-4/6">
           <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
             <div className="sm:text-right pb-8 pl-4"></div>

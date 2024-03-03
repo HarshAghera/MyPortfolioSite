@@ -15,9 +15,9 @@ const Home = () => {
             I have 4 years of experience as a web developer. I have knowledge
             about frontend as well as backend development, Additionally I have
             experience with automation testing operations. I have basic
-            understanding about CI/CD pipelines using Jenkins. I love to work on web
-            application using technologies like React.js, Node.js Express.js,
-            MySql and Mongodb.
+            understanding about CI/CD pipelines using Jenkins. I love to work on
+            web application using technologies like React.js, Node.js
+            Express.js, MySql and Mongodb.
           </p>
           <div>
             <Link
@@ -44,4 +44,5 @@ const Home = () => {
     </div>
   );
 };
+
 export default Home;

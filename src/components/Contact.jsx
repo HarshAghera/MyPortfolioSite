@@ -11,9 +11,7 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-cyan-500 text-gray-300">
             Contact Me
           </p>
-          <p className=" text-gray-300 py-6 text-2xl">
-          Let us connect!
-        </p>
+          <p className=" text-gray-300 py-6 text-2xl">Let us connect!</p>
           <div
             style={{ backgroundImage: `url(${cardBack})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div"
