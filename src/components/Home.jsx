@@ -12,7 +12,7 @@ const Home = () => {
             I'm a Full Stack Web Developer
           </h2>
           <p className="text-gray-400 py-4 max-w-md">
-            I have 4 years of experience as a web developer. I have knowledge
+            I have 3 years of experience as a web developer. I have knowledge
             about frontend as well as backend development, Additionally I have
             experience with automation testing operations. I have basic
             understanding about CI/CD pipelines using Jenkins. I love to work on

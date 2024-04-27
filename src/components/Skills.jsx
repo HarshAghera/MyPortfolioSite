@@ -16,10 +16,10 @@ const Skills = () => {
         </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <div className="shadow-lg shadow-[#040c16] hover:scale-110 duration-500 bg-gradient-to-r from-violet-500 to-blue-500">
-            <p className="my-4">HTML</p>
+            <p className="my-4">HTML/CSS</p>
           </div>
           <div className="shadow-lg shadow-[#040c16] hover:scale-110 duration-500 bg-gradient-to-r from-violet-500 to-blue-500">
-            <p className="my-4">CSS</p>
+            <p className="my-4">NEST JS</p>
           </div>
           <div className="shadow-lg shadow-[#040c16] hover:scale-110 duration-500 bg-gradient-to-r from-violet-500 to-blue-500">
             <p className="my-4">JAVASCRIPT</p>
