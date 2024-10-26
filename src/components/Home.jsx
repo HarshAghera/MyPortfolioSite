@@ -12,12 +12,15 @@ const Home = () => {
             I'm a Full Stack Web Developer
           </h2>
           <p className="text-gray-400 py-4 max-w-md">
-            I have 3 years of experience as a web developer. I have knowledge
-            about frontend as well as backend development, Additionally I have
-            experience with automation testing operations. I have basic
-            understanding about CI/CD pipelines using Jenkins. I love to work on
-            web application using technologies like React.js, Node.js
-            Express.js, MySql and Mongodb.
+            I’m a dedicated web developer with 4+ years of experience in
+            creating user-centered, scalable web applications. Skilled in
+            React.js, Node.js, Nest.js, MySQL, MongoDB, and AWS, I bring a
+            versatile approach to full-stack development. My experience spans
+            frontend and backend work, automation testing, and CI/CD pipelines
+            with Jenkins. Passionate about clean, efficient code and creative
+            problem-solving, I thrive on transforming complex challenges into
+            impactful digital experiences. If it’s about crafting impactful
+            results, I’m all in.
           </p>
           <div>
             <Link
